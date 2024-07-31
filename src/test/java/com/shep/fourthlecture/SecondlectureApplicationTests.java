@@ -1,4 +1,4 @@
-package com.shep.secondlecture;
+package com.shep.fourthlecture;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
